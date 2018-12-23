@@ -24,7 +24,9 @@
 ### 2014
 #### October
 - [Mixtura](http://mixtura.legacy.shengslogar.com)
+<!--
 - [Landing](http://landing140215.legacy.shengslogar.com/)
+-->
 
 #### April
 - [BluePower](http://bluepower.legacy.shengslogar.com/)
@@ -39,16 +41,21 @@
 - [Landing 2](http://landing131026.legacy.shengslogar.com/)
 - [Landing](http://landing131006.legacy.shengslogar.com/)
 
+<!--
 #### July
 - [Landing](http://landing130718.legacy.shengslogar.com/)
+-->
 
 #### June
+<!--
 - [Landing](http://landing130607.legacy.shengslogar.com/)
+-->
 - [Blog](http://blog13.legacy.shengslogar.com/)
 
+<!--
 #### April
 - [WRPL](http://wrpl.legacy.shengslogar.com)
-
+-->
 
 ### 2012
 #### November
@@ -56,4 +63,6 @@
 
 #### September
 - [Blog](http://blog12.legacy.shengslogar.com/)
+<!--
 - [Virtual Windows 8](http://virtualwindows8.legacy.shengslogar.com)
+-->
