@@ -2,10 +2,15 @@
 ## List of hosted legacy projects
 
 ### 2015
+#### November
+- [Blog](http://blog15.legacy.shengslogar.com)
+
 #### September
 - [The Gallery](http://thegallery.legacy.shengslogar.com/)
 
 ### 2014
+#### October
+- [Mixtura](http://mixtura.legacy.shengslogar.com)
 #### April
 - [BluePower](http://bluepower.legacy.shengslogar.com/)
 
