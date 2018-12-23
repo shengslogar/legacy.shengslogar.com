@@ -17,8 +17,10 @@
 - [The Gallery](http://thegallery.legacy.shengslogar.com/)
 
 #### May
-- [Landing 2](http://landing150515.legacy.shengslogar.com)
+- [Landing](http://landing150515.legacy.shengslogar.com)
+<!--
 - [Landing](http://landing150512.legacy.shengslogar.com)
+-->
 
 
 ### 2014
