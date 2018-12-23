@@ -29,12 +29,16 @@
 #### April
 - [BluePower](http://bluepower.legacy.shengslogar.com/)
 - [Landing](http://legacy140428.legacy.shengslogar.com)
+- [Blog](http://blog14.legacy.shengslogar.com)
 
 #### January
 - [Landing](http://landing140125.legacy.shengslogar.com/)
 
 
 ### 2013
+#### September
+- [Blog](http://blog13-2.legacy.shengslogar.com)
+
 #### October
 - [Landing 2](http://landing131026.legacy.shengslogar.com/)
 - [Landing](http://landing131006.legacy.shengslogar.com/)
