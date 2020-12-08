@@ -1,5 +1,5 @@
 # Legacy Projects
-## List of hosted legacy projects
+Sites were made along the way.
 
 ### 2018
 #### March
@@ -24,12 +24,14 @@
 ### 2014
 #### October
 - [Mixtura](http://mixtura.legacy.shengslogar.com)
-<!--[Landing](http://landing140215.legacy.shengslogar.com/)-->
+- [Landing](http://landing141011.legacy.shengslogar.com/)
 
 #### April
 - [BluePower](http://bluepower.legacy.shengslogar.com/)
 - [Landing](http://legacy140428.legacy.shengslogar.com)
 - [Blog](http://blog14.legacy.shengslogar.com)
+
+<!--[Landing](http://landing140215.legacy.shengslogar.com/)-->
 
 #### January
 - [Landing](http://landing140125.legacy.shengslogar.com/)
